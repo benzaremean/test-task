@@ -1,6 +1,6 @@
 ## Installation
 
-# Prerequisites
+## Prerequisites
 You need to install the following
 1. Node js
 2. Java JDK 1.8
