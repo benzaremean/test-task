@@ -4,7 +4,7 @@
 You need to install the following
 * Node js
 * Java JDK 1.8
-* Firefox 22
+* Firefox 52
 
 To install run following command from root folder
 
