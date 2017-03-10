@@ -1,5 +1,11 @@
 ## Installation
 
+# Prerequisites
+You need to install the following
+1. Node js
+2. Java JDK 1.8
+3. Firefox 22
+
 To install run following command from root folder
 
 ``` shell
